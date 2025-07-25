@@ -40,5 +40,6 @@ void loop()
     distanceCounter = 0;
   }
 
-  delay(500);
+  // Gives a bit of delay so doesn't flicker a ton
+  delay(700);
 }
